@@ -1,7 +1,7 @@
 ## Hi there 👋
 Kono Lê Đức Huy niwa yume ga aru, kẻ mạnh nhất.
 
- <div style="text-align: center;">
+<div style="text-align: center;">
       <p>All my contributions</p>
       <img alt="Snake animation" src="https://raw.githubusercontent.com/NotWorle/NotWorle/output/github-contribution-grid-snake.svg" />
 </div>
