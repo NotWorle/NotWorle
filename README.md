@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="snake.css">
 ## Hi there 👋
 Kono Lê Đức Huy niwa yume ga aru, kẻ mạnh nhất.
 
